@@ -3,7 +3,7 @@
     <img src="assets/logo.png" alt="Sidequest Logo" width="150" height="150">
   </a>
 
-  <h1 align="center">⚔️ Sidequest</h1>
+  <h1 align="center">⚔️ Sidequest</h1> 
 
   <p align="center">
     Your daily chores, gamified.
